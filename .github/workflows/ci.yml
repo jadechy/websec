@@ -11,8 +11,7 @@ permissions:
   actions: read
 
 jobs:
-
-  test:
+  test:  
     name: test
     runs-on: ubuntu-latest
 
